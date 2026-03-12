@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="vd.gif" width="150" weight="100">
+      <img src="vd.gif" width="150">
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>💻 Entusiasta de tecnologia</p>
