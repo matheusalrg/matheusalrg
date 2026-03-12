@@ -32,7 +32,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="POO" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" title="Programação Orientada a Objetos">
+  <span style="display:inline-block; margin-left:5px; margin-right:5px; font-size:14px; font-weight:bold;">POO</span>
   <img align="center" alt="Banco de Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="Banco de Dados (XAMPP)">
 </div>
 
