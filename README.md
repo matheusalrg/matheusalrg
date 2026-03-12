@@ -42,7 +42,7 @@
   <a href="mailto:matheus.ifpb.docs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-almeida-0a9aa72a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=lattes.cnpq.br/5250649312489387" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=appveyor&logoColor=white"></a>
-  <a href="https://discord.gg/m4theusal" target="_blank">
+  <a href="https://discordapp.com/users/555070439836221441" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </div>
