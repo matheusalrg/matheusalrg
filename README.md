@@ -3,10 +3,11 @@
 <h1 align="center">👋 Olá, eu sou Matheus Almeida Rigueira</h1>
 <h3 align="center">💻 Entusiasta de tecnologia e programação | Suporte e manutenção de computadores</h3>
 
-<table align="center">
+<table align="center" 
+       style="border: 4px solid #FFD700; border-radius: 20px; padding: 15px; border-collapse: separate;">
   <tr>
-    <td>
-      <img src="video.gif" style="width: 250px; max-width: 80vw; height: auto;" class="gif-responsive">
+    <td style="border-radius: 20px;">
+      <img src="video.gif" width="250" style="border-radius: 15px;">
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>💻 Entusiasta de tecnologia</p>
