@@ -123,23 +123,23 @@ title="Banco de Dados (XAMPP)"
 «»
 
 </div><br>
-<br><h1 align="center">📊 Minhas Estatísticas</h1><div align="center"><img
+<br><h1 align="center">📊 Estatísticas do GitHub</h1><div align="center"><img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusalrg&theme=tokyonight"
 width="100%"
-alt="Profile Details"
+alt="GitHub Profile Details"
 />
 
   <br>
   <br><img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusalrg&theme=tokyonight"
 width="48%"
-alt="Linguagens mais utilizadas"
+alt="Linguagens dos repositórios"
 />
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusalrg&theme=tokyonight"
 width="48%"
-alt="Linguagem com mais commits"
+alt="Linguagens com mais commits"
 />
 
   <br>
@@ -152,7 +152,7 @@ alt="Estatísticas do GitHub"
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheusalrg&theme=tokyonight&utcOffset=-3"
 width="48%"
-alt="Horários de produtividade"
+alt="Horário de produtividade"
 />
 
 </div><h1 align="center">🌐 Contato & Redes Sociais</h1><div align="center">  <a href="https://www.instagram.com/matheus_al_rg" target="_blank">
