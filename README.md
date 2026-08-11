@@ -1,9 +1,5 @@
-<img src="banner.png" alt="Banner" width="100%"/>
-
-<h1 align="center">👋 Olá, eu sou Matheus Almeida Rigueira</h1>
-<h3 align="center">💻 Entusiasta de tecnologia e programação | Suporte e manutenção de computadores</h3>
-
-<table align="center">
+<img src="banner.png" alt="Banner" width="100%"/><h1 align="center">👋 Olá, eu sou Matheus Almeida Rigueira</h1>
+<h3 align="center">💻 Entusiasta de tecnologia e programação | Suporte e manutenção de computadores</h3><table align="center">
   <tr>
     <td>
       <img src="./video.gif" alt="video" width="250">
@@ -15,33 +11,30 @@
       <p>🚀 Sempre aprendendo novas tecnologias</p>
     </td>
   </tr>
-</table>
+</table>🎓 Formação
 
-### 🎓 Formação
-- Técnico em Informática pelo Instituto Federal da Paraíba (IFPB) - Campus Catolé do Rocha  
-  - Premiado com destaque pelo melhor Trabalho de Conclusão de Curso (TCC) na área de Educação e Tecnologias  
-  - Reconhecimento em hardware e redes de computadores  
+- Técnico em Informática pelo Instituto Federal da Paraíba (IFPB) - Campus Catolé do Rocha
+  - Premiado com destaque pelo melhor Trabalho de Conclusão de Curso (TCC) na área de Educação e Tecnologias
+  - Reconhecimento em hardware e redes de computadores
 - Atualmente cursando 2º período do Bacharelado em Tecnologia da Informação (BTI) na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros
 
-### 💻 Experiência
-- Montagem, manutenção preventiva e corretiva, limpeza e formatação de computadores e notebooks  
-- Diagnóstico e resolução de problemas de hardware e software  
-- Conhecimentos em redes de computadores: configuração de roteadores, switches e conexões cabeadas e sem fio  
-- Atuação autônoma em suporte técnico e manutenção de computadores  
+💻 Experiência
+
+- Montagem, manutenção preventiva e corretiva, limpeza e formatação de computadores e notebooks
+- Diagnóstico e resolução de problemas de hardware e software
+- Conhecimentos em redes de computadores: configuração de roteadores, switches e conexões cabeadas e sem fio
+- Atuação autônoma em suporte técnico e manutenção de computadores
 - Experiência profissional em assistência técnica de dispositivos móveis
 
-### 🌟 Habilidades
-- Organização, aprendizado rápido e resolução de problemas  
-- Comunicação eficaz, criatividade e empatia  
-- Trabalho em equipe e capacidade de adaptação  
+🌟 Habilidades
+
+- Organização, aprendizado rápido e resolução de problemas
+- Comunicação eficaz, criatividade e empatia
+- Trabalho em equipe e capacidade de adaptação
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/snake.svg" alt="Snake animation"/>
-</p>
-
-<h1 align="center">🔧 Tecnologias e Linguagens</h1>
-
-<div align="center">
+</p><h1 align="center">🔧 Tecnologias e Linguagens</h1><div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -51,22 +44,13 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Banco de Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="Banco de Dados (XAMPP)">
-</div>
-
-<br>
-<br>
-
-<div align="center">
+</div><br>
+<br><div align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/><img height="180em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<h1 align="center">🌐 Contato & Redes Sociais</h1>
-
-<div align="center">
+</div><h1 align="center">🌐 Contato & Redes Sociais</h1><div align="center">
   <a href="https://www.instagram.com/matheus_al_rg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:matheus.ifpb.docs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-almeida-0a9aa72a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
