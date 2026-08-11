@@ -56,16 +56,9 @@
 <br>
 <br>
 
-<div align="center">
+<div align="center">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusalrg&theme=tokyonight" width="100%"/><br><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusalrg&theme=tokyonight" width="100%"/>
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusalrg&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusalrg&theme=tokyonight" width="48%"/>
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" width="48%"/>  <img src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="48%"/></div>
 
 <h1 align="center">🌐 Contato & Redes Sociais</h1>
 
